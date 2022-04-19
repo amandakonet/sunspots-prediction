@@ -8,7 +8,7 @@ Sunspots.csv contains the mean monthly sunspot activity from 1749 to July 2018
 
 # EDA
 
-
+Performed basic exploratory data analysis to uncover trends with sunspots
 
 # Modeling
 
