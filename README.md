@@ -15,4 +15,4 @@ Performed basic exploratory data analysis to uncover trends with sunspots
 The modeling files are broken up into:
 
 1. [Linear regression and decision trees](https://github.com/amandakonet/sunspots-prediction/blob/main/modeling/time_series_lr_decision_trees.ipynb)
-2. [Random forests and gradient boosting]()
+2. [Random forests and gradient boosting](https://github.com/amandakonet/sunspots-prediction/blob/main/modeling/time-series-rf-gb.ipynb)
