@@ -1,6 +1,6 @@
 # Sunspots
 
-Goal: To understand trends in sunspot activity and to model mean monthly sunspot activity using time series variables in PySpark.
+Goal: To understand trends in sunspot activity and to model mean monthly sunspot activity using time series variables in PySpark using Google Cloud.
 
 # Data
 
@@ -14,5 +14,6 @@ Performed basic exploratory data analysis to uncover trends with sunspots
 
 The modeling files are broken up into:
 
+0. [Baseline model](https://github.com/amandakonet/sunspots-prediction/blob/main/modeling/baseline.ipynb)
 1. [Linear regression and decision trees](https://github.com/amandakonet/sunspots-prediction/blob/main/modeling/time_series_lr_decision_trees.ipynb)
 2. [Random forests and gradient boosting](https://github.com/amandakonet/sunspots-prediction/blob/main/modeling/time-series-rf-gb.ipynb)
